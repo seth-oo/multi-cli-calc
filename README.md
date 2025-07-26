@@ -85,6 +85,28 @@ A simple and powerful command-line calculator written in pure Rust using **proce
    > _
 
    ```
+---
+
+## After Running the App
+
+```bash
+project-dir$ dir    # or `ls` on Linux/macOS
+```
+
+After running the calculator, you should see the following files generated in the same directory:
+
+* `calculator_aliases.txt`
+* `calculator_audit.log`
+* `calculator_backup_1753541992.txt`
+* `calculator_backup_1753542178.txt`
+* `calculator_backup_1753542957.txt`
+* `calculator_settings.txt`
+* `calculator_variables.txt`
+
+These files help store aliases, logs, backups, and settings for your CLI calculator.
+
+---
+
 
 ### Note
    This calculator was built entirely without OOP or functions—**just pure procedural programming**—to deepen understanding of low-level control and structure.
@@ -94,5 +116,7 @@ A simple and powerful command-line calculator written in pure Rust using **proce
 
 **Disclaimer:**
   You might encounter a warning when compiling the program. This warning will not prevent the program from running or functioning correctly as a real CLI app—you can still fully test and use it.
+
+---
    
 
