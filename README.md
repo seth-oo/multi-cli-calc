@@ -103,7 +103,7 @@ After running the calculator, you should see the following files generated in th
 * `calculator_settings.txt`
 * `calculator_variables.txt`
 
-These files help store aliases, logs, backups, and settings for your CLI calculator.
+These files help store aliases, logs, backups, and settings for the CLI calculator.
 
 ---
 
